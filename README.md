@@ -397,7 +397,7 @@ Este projeto é possível graças a:
 ## 📧 Contato
 
 **Desenvolvido por:** Luiz Felipe Morisco  
-**E-mail:** luiz.morisco@exemplo.com  
+**E-mail:** luizfelipemorisco@gmail.com  
 **GitHub:** [@luizmorisco](https://github.com/luizmorisco)
 
 ---
