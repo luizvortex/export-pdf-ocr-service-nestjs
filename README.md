@@ -57,7 +57,7 @@ Este projeto **lê o PDF automaticamente** usando OCR e transforma em uma planil
 
 ---
 
-## 🚀 Como Usar (Para Usuários)
+## 🚀 Como Usar
 
 ### 1️⃣ Acesse a API
 ```
