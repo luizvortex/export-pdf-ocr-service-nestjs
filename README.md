@@ -398,7 +398,7 @@ Este projeto é possível graças a:
 
 **Desenvolvido por:** Luiz Felipe Morisco  
 **E-mail:** luizfelipemorisco@gmail.com  
-**GitHub:** [@luizmorisco](https://github.com/luizmorisco)
+**GitHub:** [@luizmorisco](https://github.com/luizvortex)
 
 ---
 
